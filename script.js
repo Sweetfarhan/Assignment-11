@@ -79,4 +79,4 @@ console.log(result);
 var m = 2;
 var n = 3;
 var o = 4;
-var result = m++*(--n+m)/(o-- - n)
+var result = m++*(--n+m)/(o-- - n);
